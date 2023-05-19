@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://i.ibb.co/XxLNNqq/Design-ohne-Titel-8-removebg-preview.png" width="100"/>
+  <img src="https://i.ibb.co/XxLNNqq/Design-ohne-Titel-8-removebg-preview.png" width="350"/>
 </div>
