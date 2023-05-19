@@ -6,10 +6,10 @@
 </div>
 <div id="socials" align="center">
     <a href="https://www.linkedin.com/in/i3-319925213/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" width="70px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" width="90px">
     </a>
     <a href="https://www.instagram.com/nerdy._.tech/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/800px-Instagram_logo.svg.png?20160616034027" width="70px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/800px-Instagram_logo.svg.png?20160616034027" width="90px">
     </a>
 </div>
 <div align="center">
