@@ -1,3 +1,4 @@
+@import url(https://fontlibrary.org//face/asd);
 <div id="header" align="center">
     <a href="https://i3mc.eu">
     <img src="https://i.ibb.co/XxLNNqq/Design-ohne-Titel-8-removebg-preview.png" width="300"/>
@@ -15,4 +16,4 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=i3mc-eu&style=flat-square&color=green" alt=""/>
 </div>
-<p align="center">Hey im I3, <br> Currently learning <a href="https://www.python.org/">Python</a> and <a href="https://micropython.org/">MicroPython</a></p>
+<p align="center" font-family="MinecraftiaRegular">Hey im I3, <br> Currently learning <a href="https://www.python.org/">Python</a> and <a href="https://micropython.org/">MicroPython</a> </p>
