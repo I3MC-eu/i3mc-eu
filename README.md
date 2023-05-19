@@ -15,8 +15,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=i3mc-eu&style=flat-square&color=green" alt=""/>
 </div>
-<ul>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
