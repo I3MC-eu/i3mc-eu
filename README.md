@@ -18,4 +18,3 @@
 </div>
 <br>
 <p align="center" font-family="Monocraft">Hey im I3, <br> Currently learning <a href="https://www.python.org/">Python</a> and <a href="https://micropython.org/">MicroPython</a> </p>
-<iframe src="https://i3mc13.nicepage.io/" style="width: 100%; height: 500px; border: none;"></iframe>
