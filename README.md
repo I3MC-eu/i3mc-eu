@@ -1,4 +1,4 @@
-@import url(https://fontlibrary.org//face/asd);
+
 <div id="header" align="center">
     <a href="https://i3mc.eu">
     <img src="https://i.ibb.co/XxLNNqq/Design-ohne-Titel-8-removebg-preview.png" width="300"/>
