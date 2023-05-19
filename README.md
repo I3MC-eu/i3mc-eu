@@ -3,7 +3,7 @@
     <h1>Hey, Whats Up!</h1>
 </div>
 
-<div id="socials" align="center>
+<div id="socials" align="center">
     <a href="https://www.linkedin.com/in/i3-319925213/">
         <img src="https://img.shields.io/badge/LinkedIn-blue" >
     </a>
