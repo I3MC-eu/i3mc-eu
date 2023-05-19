@@ -29,7 +29,7 @@
     <li>
         Networking
     </li>
-    <ul>
+    <ol list-style-type:none;>
         <p>Operating Systems I work with</p>
         <li>
             <a href="https://www.linux.org/pages/download/">
@@ -52,5 +52,5 @@
                 <li>Win 95</li>
             </ul>
         </li>
-    </ul>
+    </ol>
 </ul>
