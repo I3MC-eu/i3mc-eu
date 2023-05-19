@@ -1,5 +1,7 @@
-<a href="https://i3mc.eu" align="center"><img src="https://i.ibb.co/XxLNNqq/Design-ohne-Titel-8-removebg-preview.png" width="300"/></a>
+<div align="center">
+    <a href="https://i3mc.eu" align="center"><img src="https://i.ibb.co/XxLNNqq/Design-ohne-Titel-8-removebg-preview.png" width="300"/></a>
     <h1>Hey, Whats Up!</h1>
+</div>
     
 <div id="socials" align="center">
     
