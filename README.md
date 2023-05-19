@@ -6,7 +6,7 @@
 </div>
 <div id="socials" align="center">
     <a href="https://www.linkedin.com/in/i3-319925213/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" width="60px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" width="70px">
     </a>
     <a href="https://www.instagram.com/nerdy._.tech/">
         <img src="https://img.shields.io/badge/Instagram-pink" alt="">
