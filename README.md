@@ -16,4 +16,5 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=i3mc-eu&style=flat-square&color=green" alt=""/>
 </div>
+<br>
 <p align="center" font-family="MinecraftiaRegular">Hey im I3, <br> Currently learning <a href="https://www.python.org/">Python</a> and <a href="https://micropython.org/">MicroPython</a> </p>
