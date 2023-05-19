@@ -24,16 +24,12 @@
 <p>What i know</p>
 <ul>
     <li>
-        <a href="">
-            <img src="">
-        </a>
+       
     </li>
     <li>
-        <a href="">
-            <img src="">
-        </a>
+        Networking
     </li>
-    <ol>
+    <ul>
         <p>Operating Systems I work with</p>
         <li>
             <a href="https://www.linux.org/pages/download/">
@@ -42,6 +38,8 @@
             <ul>
                 <li>Ubunto</li>
                 <li>Arch</li>
+                <li>Mint</li>
+                <li>Kali</li>
             </ul>
         </li>
         <li>
@@ -51,6 +49,7 @@
             <ul>
                 <li>Win 10</li>
                 <li>Win 11</li>
+                <li>Win 95</li>
             </ul>
         </li>
     </ol>
