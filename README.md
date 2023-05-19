@@ -1,9 +1,4 @@
-@font-face {
-    font-family: 'MinecraftiaRegular';
-        src: url('/assets/fonts/asd/71962a7e3d4a70435c030466a12f1d63/bf3f245b7cd53caea0cb07d265a64adc/MinecraftiaRegular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-      }
+
 <div id="header" align="center">
     <a href="https://i3mc.eu">
     <img src="https://i.ibb.co/XxLNNqq/Design-ohne-Titel-8-removebg-preview.png" width="300"/>
