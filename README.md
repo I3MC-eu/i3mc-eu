@@ -52,5 +52,5 @@
                 <li>Win 95</li>
             </ul>
         </li>
-    </ol>
+    </ul>
 </ul>
