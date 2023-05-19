@@ -4,7 +4,7 @@
 </div>
     
 <div id="socials" align="center">
-    
+
     <a href="https://www.linkedin.com/in/i3-319925213/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" width="90px">
     </a>
@@ -12,7 +12,9 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/800px-Instagram_logo.svg.png?20160616034027" width="90px">
     </a>
 
-    <img align="center" src="https://komarev.com/ghpvc/?username=i3mc-eu&style=flat-square&color=green" alt=""/>
+</div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=i3mc-eu&style=flat-square&color=green" alt=""/>
 </div>
 <br>
 
