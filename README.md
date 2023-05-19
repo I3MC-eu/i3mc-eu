@@ -11,11 +11,9 @@
     <a href="https://www.instagram.com/nerdy._.tech/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/800px-Instagram_logo.svg.png?20160616034027" width="90px">
     </a>
-    
+
+    <img align="center" src="https://komarev.com/ghpvc/?username=i3mc-eu&style=flat-square&color=green" alt=""/>
 </div>
-
-<img align="center" src="https://komarev.com/ghpvc/?username=i3mc-eu&style=flat-square&color=green" alt=""/>
-
 <br>
 
 <p align="center">Hey im I3, <br> Currently learning <a href="https://www.python.org/">Python</a> and <a href="https://micropython.org/">MicroPython</a> </p>
