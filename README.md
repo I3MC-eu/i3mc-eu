@@ -2,7 +2,7 @@
     <img src="https://i.ibb.co/XxLNNqq/Design-ohne-Titel-8-removebg-preview.png" width="300"/>
     <h1>Hey^^</h1>
 </div>
-<div id="socials" align="center>
+<div id="socials" align="center">
     <a href="https://www.linkedin.com/in/i3-319925213/">
         <img src="https://img.shields.io/badge/LinkedIn-blue" >
     </a>
