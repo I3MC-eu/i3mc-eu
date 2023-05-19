@@ -9,7 +9,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" width="70px">
     </a>
     <a href="https://www.instagram.com/nerdy._.tech/">
-        <img src="https://img.shields.io/badge/Instagram-pink" alt="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/800px-Instagram_logo.svg.png?20160616034027" width="70px">
     </a>
 </div>
 <div align="center">
