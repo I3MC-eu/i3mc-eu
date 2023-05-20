@@ -24,7 +24,7 @@
 <p>What i know</p>
 <ul>
 	<li>
-		<p>Hardware</p>
+		<p><img src="https://img.shields.io/badge/Hardware-yellow?style=for-the-badge"></p>
 		<ol>
 			<li>
 				<p><img src="https://img.shields.io/badge/Microcontroler-black?style=for-the-badge"></p>
@@ -45,7 +45,7 @@
 		</ol>
 	</li>
 	<li>
-		<p>Operating Systems I work with</p>
+		<p><img src="https://img.shields.io/badge/Operating Systems I work with-yellow?style=for-the-badge"></p>
 		<ol>
 			<li>
 				<a href="https://www.linux.org/pages/download/">
