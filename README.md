@@ -27,7 +27,7 @@
 		<p>Hardware</p>
 		<ol>
 			<li>
-				<img src="img.shields.io/badge/Microcontroler-black?style=for-the-badge">
+				<p><img src="img.shields.io/badge/Microcontroler-black?style=for-the-badge"></p>
 				<ul>
 					<li>ESP32</li>
 					<li>Arduino UNO</li>
