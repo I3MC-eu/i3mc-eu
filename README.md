@@ -27,7 +27,7 @@
 		<p>Hardware</p>
 		<ol>
 			<li>
-				<p><img src="img.shields.io/badge/Microcontroler-black?style=for-the-badge"></p>
+				<p><img src="https://img.shields.io/badge/Microcontroler-black?style=for-the-badge"></p>
 				<ul>
 					<li>ESP32</li>
 					<li>Arduino UNO</li>
@@ -35,7 +35,7 @@
 				</ul>
 			</li>
 			<li>
-				<p><img src="img.shields.io/badge/Computers/Servers-black?style=for-the-badge"></p>
+				<p><img src="https://img.shields.io/badge/Computers/Servers-black?style=for-the-badge"></p>
 				<ul>
 					<li>Desktop</li>
 					<li>Workstation</li>
