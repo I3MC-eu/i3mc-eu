@@ -44,28 +44,30 @@
 			</li>
 		</ol>
 	</li>
-	<ol>
+	<li>
 		<p>Operating Systems I work with</p>
-		<li>
-			<a href="https://www.linux.org/pages/download/">
-                <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux">
-            </a>
-			<ul>
-				<li>Ubunto</li>
-                <li>Arch</li>
-                <li>Mint</li>
-                <li>Kali</li>
-			</ul>
-		</li>
-		<li>
-			<a href="https://www.microsoft.com/de-at/windows">
-                <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows">
-            </a>
-			<ul>
-				<li>Win 10</li>
-                <li>Win 11</li>
-                <li>Win 95</li>
-			</ul>
-		</li>
-	</ol>
+		<ol>
+			<li>
+				<a href="https://www.linux.org/pages/download/">
+					<img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux">
+				</a>
+				<ul>
+					<li>Ubunto</li>
+					<li>Arch</li>
+					<li>Mint</li>
+					<li>Kali</li>
+				</ul>
+			</li>
+			<li>
+				<a href="https://www.microsoft.com/de-at/windows">
+					<img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows">
+				</a>
+				<ul>
+					<li>Win 10</li>
+					<li>Win 11</li>
+					<li>Win 95</li>
+				</ul>
+			</li>
+		</ol>
+	</li>
 </ul>
