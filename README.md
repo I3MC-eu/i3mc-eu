@@ -21,7 +21,7 @@
 
 <br>
 
-<p>What i know</p>
+<p><b>What i know</b></p>
 <ul>
 	<li>
 		<p><img src="https://img.shields.io/badge/Hardware-yellow?style=for-the-badge"></p>
