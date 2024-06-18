@@ -30,8 +30,7 @@
 				<p><img src="https://img.shields.io/badge/Microcontroler-black?style=for-the-badge"></p>
 				<ul>
 					<li>ESP32</li>
-					<li>Arduino UNO</li>
-					<li>RP2040</li>
+					<li>ESP8266</li>
 				</ul>
 			</li>
 			<li>
