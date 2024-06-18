@@ -52,7 +52,7 @@
 					<img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux">
 				</a>
 				<ul>
-					<li>Ubunto</li>
+					<li>Ubuntu</li>
 					<li>Arch</li>
 					<li>Mint</li>
 					<li>Kali</li>
@@ -65,7 +65,6 @@
 				<ul>
 					<li>Win 10</li>
 					<li>Win 11</li>
-					<li>Win 95</li>
 				</ul>
 			</li>
 		</ol>
